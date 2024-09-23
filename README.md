@@ -1,21 +1,32 @@
 # Email-Performance-Power-BI-Dashboard
+Project description
+
 This project is focused on developing an Email Performance Dashboard for the marketing team using Power BI, SQL, and Excel. The dashboard provides insights into email campaigns, tracking the number of emails sent daily, weekly, and termly, along with conversion rates (CR). It is designed to help the marketing team evaluate email performance across various regions and countries, and enables the creation of new KPIs and matrices for future campaigns.
 
 Technology Stack
+
 Power BI: Used for data visualization and creating the dashboard with dynamic reporting.
 SQL: Employed to query email data from internal databases, supporting complex filtering and grouping operations.
 Excel: Utilized for pre-processing data, importing certain metrics, and integrating with Power BI for seamless analysis.
+
 Key Features
+
 Email Activity Tracking: Visualizes the number of emails sent daily, weekly, and termly, allowing for easy monitoring of campaign activity over time.
 Conversion Rate (CR) Analysis: Provides detailed conversion rate metrics for each period, helping to assess campaign effectiveness.
 Geographical Insights: Tracks email activity and conversion rates by region and country, enabling deeper analysis of regional performance.
 Custom KPIs and Matrices: Allows the marketing team to create and measure custom Key Performance Indicators (KPIs) and matrices tailored to specific campaign goals.
 Performance Filtering: Offers advanced filtering capabilities for divisional, regional, and campaign-specific performance, empowering users to drill down into specific data sets.
 How It Works
-Data Source: SQL queries pull email data from internal databases and export it to Excel for any additional calculations.
+
+
+Data Source: 
+
+SQL queries pull email data from internal databases and export it to Excel for any additional calculations.
 Pre-processing: Excel is used for data cleaning and pre-processing, ensuring that metrics like dates, regions, and email statuses are accurate.
 Dashboard Creation: Power BI takes the processed data, building dynamic reports that allow users to track emails and conversion rates across various timeframes and geographical segments.
 Insight Generation: The dashboard enables the marketing team to generate insights from historical email data, optimize campaign strategies, and evaluate geographical performance.
+
+
 Usage
 To view or modify the dashboard, ensure that you have access to:
 
