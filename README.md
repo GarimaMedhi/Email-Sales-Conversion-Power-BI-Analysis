@@ -1,4 +1,4 @@
-# Email-Performance-Power-BI-Dashboard
+# Email-Sales-Conversion-Power-BI-Analysis
 Project description
 
 This project is focused on developing an Email Performance Dashboard for the marketing team using Power BI, SQL, and Excel. The dashboard provides insights into email campaigns, tracking the number of emails sent daily, weekly, and termly, along with conversion rates (CR). It is designed to help the marketing team evaluate email performance across various regions and countries, and enables the creation of new KPIs and matrices for future campaigns.
